@@ -6,7 +6,7 @@ const corsHeaders = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Client-Info, Apikey",
 };
 
-const GEMINI_API_KEY = "AIzaSyAOhcsnXtZlJYankkeZBOJ2Cj0jgmdo2UE";
+const GEMINI_API_KEY = "AIzaSyAJHCmfwEoZSTdO6hX5BVxJSAl1GyWOHl4";
 
 interface ChatRequest {
   message: string;
