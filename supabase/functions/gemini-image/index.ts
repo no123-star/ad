@@ -6,7 +6,7 @@ const corsHeaders = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Client-Info, Apikey",
 };
 
-const GEMINI_API_KEY = "AIzaSyAJHCmfwEoZSTdO6hX5BVxJSAl1GyWOHl4";
+const GEMINI_API_KEY = "AIzaSyCAX6DwNjQRHu2DzBmYdnrVUENLCs8lYIE";
 
 interface ImageRequest {
   prompt: string;
